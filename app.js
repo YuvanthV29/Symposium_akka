@@ -1,4 +1,4 @@
-var countdownDate = new Date("Nov 21, 2022 00:00:00").getTime();
+var countdownDate = new Date("Nov 14, 2022 00:00:00").getTime();
 var x = setInterval(function(){
     // Get today's date and time
     var nowDT = new Date().getTime();

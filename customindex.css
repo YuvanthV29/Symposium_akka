@@ -5,6 +5,11 @@ body{
 	background-size: cover; 
 	position: relative;
 }
+h1{
+    color: rgba(13, 1, 78, 0.986) !important;
+    font-size: 5vw;
+    font-family: 'Trirong';
+}
 h2{
     text-align: center;
     color: #000 !important;
@@ -19,7 +24,7 @@ h2{
 .sym{
     font-weight: bold;
     text-align: center !important;
-    font-size: 100px !important;
+    font-size: 9vw !important;
     letter-spacing: normal;
     color: rgba(13, 1, 78, 0.986) !important;
 }

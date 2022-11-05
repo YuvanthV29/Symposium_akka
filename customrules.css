@@ -7,13 +7,22 @@ body{
 }
 
 h1{
-    text-decoration: underline;
-    font-size: 80px;
-    padding-bottom: 10%;
+    text-align: center !important;
+    /* text-decoration: underline; */
+    font-size: 50px;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    font-family: var(--font-secondary);
+}
+
+li{
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
 }
 
 .text{
     color: black;
-    text-align: center;
-    padding-top: 10%;
+    /* text-align: left !important; */
+    /* text-align: center; */
 }
