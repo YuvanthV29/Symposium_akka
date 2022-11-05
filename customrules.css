@@ -1,0 +1,19 @@
+body{
+    background: url(Rules.jpg);
+    background-repeat: no-repeat; 
+	background-position: center;
+	background-size: cover; 
+	position: relative;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 80px;
+    padding-bottom: 10%;
+}
+
+.text{
+    color: black;
+    text-align: center;
+    padding-top: 10%;
+}
